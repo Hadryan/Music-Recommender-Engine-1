@@ -5,9 +5,8 @@ The data set is a 14,000+ album Spotify Web API. It's features include the song 
 
 ## EDA (brief)
 ![](images/genres_of_albums.png)
-This is the breakdown of the albums according to genre. 
 ![](images/scores_of_albums.png)
-This is the summary of scores each of our albums in our dataset
+This is the breakdown of the albums according to genre and this is the summary of scores each of our albums in our dataset
 ![](images/chart1.png)
 ![](images/chart2.png)
 
