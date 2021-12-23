@@ -22,4 +22,4 @@ For example: If I entered the album 'Beat Happening', the top 10 recommended alb
 7. When Your Heartstrings Break by Beulah
 8. Thelonious Monk: Les Liaisons Dangereuses 1960 by Thelonious Monk
 9. Quarter Turns Over a Living Line by Raime
-10. 1977 by Terius Nash
+10. 1977 by Terius Nash 
