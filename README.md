@@ -10,7 +10,7 @@ The data set is a 14,000+ album Spotify Web API. It's features include the song 
 This is the breakdown of the albums according to genre and this is the summary of scores each of our albums in our dataset
 ![](images/chart1.png)
 
-Using the Surprise engine, I used a SVD algorithm to predict my ratings for albums according to artist. The first trial RMSE is 2.3 (not good) but the second trial fared better with 1.1 RMSE. For subsequent trials, I will think of ways to implement Surprise to get a better RMSE. So far, we have no users for our data and so I just used artists instead (doesn't make too much sense though). The top 10 similar albums were returned based off their ratings from syndicates and predicted rating. This recommendation engine is bare bones but is a learning process that will get stronger with time. This is a first rec engine. 
+Using the Surprise engine, I used a SVD algorithm to predict my ratings for albums according to artist. The first trial RMSE is 2.3 (not good) but the second trial fared better with 1.1 RMSE. For subsequent trials, I will think of ways to implement Surprise to get a better RMSE. So far, we have no users for our data and so I just used artists instead (doesn't make too much sense though). The top 10 similar albums were returned based off their ratings from syndicates and predicted rating. This recommendation engine is bare bones but is a learning process. This is a first rec engine. 
 
 For example: If I entered the album 'Beat Happening', the top 10 recommended albums are:
 1. Nexus by Feral
