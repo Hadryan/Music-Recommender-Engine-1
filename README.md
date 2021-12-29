@@ -1,5 +1,5 @@
 ## Music-Recommender-Engine (SVD with Spotify Web API dataset)
-### Item-Item Collaborative Filtering Rec Engine
+### Item-Item Collaborative Filtering Rec Engine with Surprise
 Music Rec Engine
 
 The data set is a 14,000+ album Spotify Web API. It's features include the song name, published date, and song attributes such as speechiness, instrumentalness, loudness, mode, key, tempo, danceability, acousticness etc. This recommendation engine uses an SVD based on album ratings to recommend similar albums in a top 10 sorted list for listeners. Please see Final_NB.ipynb for coding. 
